@@ -1,0 +1,9 @@
+src
+.editorconfig
+.eslint*
+.git*
+.babelrc
+test
+tests
+.npmignore
+wallaby.config*
