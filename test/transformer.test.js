@@ -12,7 +12,7 @@ Test('A booking is transformed correctly', t => {
         wsdl: 'https://secure.instantsoftwareonline.com/StayUSA/ChannelPartners/wsWeblinkPlusAPI.asmx?wsdl',
         tokenizerUrl: 'https://payments.homeaway.com',
         apiClientId: 'f88a130a-1111-2222-90fc-893d1c5106a8',
-        username: 'travel',
+        username: 'fawesome',
         apiKey: '2142e27741c9464f88e30cb0b0111111',
         password: 'me-password'
       },
