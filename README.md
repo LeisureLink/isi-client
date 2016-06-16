@@ -2,6 +2,8 @@
 
 > Client for ISI
 
+[![CircleCI](https://circleci.com/gh/LeisureLink/isi-client.svg?style=svg)](https://circleci.com/gh/LeisureLink/isi-client)
+
 ### Table of Contents
 
 * [Installation](#installation)
